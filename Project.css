@@ -1,0 +1,24 @@
+.project-container{
+    margin-top: 5rem;
+    height: 300px;
+}
+.proj-box1{
+    display: flex;
+}
+.project-img{
+    height: 320px;
+    width: 460px;
+    object-fit: cover;
+    border-radius: 1.8rem;
+    margin-left: 4rem;
+}
+.proj-heading{
+    margin: 4rem 2rem 0 13rem; 
+     text-align: center;
+      display: flex;
+    flex-direction: column;
+    
+} 
+.proj-heading p{
+    margin-top: 2rem;
+}

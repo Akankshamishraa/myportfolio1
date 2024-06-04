@@ -1,0 +1,29 @@
+.cards-container {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 60px; 
+    /* background-color: #f8f8f8;  */
+    padding: 20px;
+     margin-top: 7rem; 
+  }
+  
+  .card {
+     /* background-color:plum;  */
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 90%; 
+    padding:  15px 20px 0 20px;
+    /* text-align: center; */
+  }
+  .card h2{
+    margin-bottom: 2rem;
+    font-size: 800;
+  }
+  .card-content{
+    height:420px;
+    
+    font-size: 1.3rem;
+  }

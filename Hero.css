@@ -1,0 +1,138 @@
+.hero-container{
+     height: 200vh;
+    /* margin-top: 13rem;  */
+    
+    
+}
+
+
+.hero-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+      margin-top: 7rem;  
+    gap: 4rem;
+    
+}
+.para-content{
+    margin-top: 1rem;
+    text-align: center;
+}
+.hero-para{
+    display: flex;
+    flex-direction: column;
+    right: 5%;
+    
+}
+.hero-para p{
+    font-size: 1.2rem;
+}
+.tech-img{
+    height: 450px;
+    width: 450px;
+    border-radius: 2rem; 
+     /* margin-bottom: 100px;  */
+   
+
+}
+p{
+    font-size: medium;
+}
+.about-container{
+    margin-top: 10rem;
+    height: 200px;
+    
+}
+.about-container h1{
+    padding-bottom: 100px;
+    /* margin-bottom: 100px; */
+}
+
+.about-heading{
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    /* margin-left: 15rem; */
+    text-align: center;
+    /* padding-bottom: 200px; */
+}
+ h2{
+    text-align: center;
+    margin-top: 3rem;
+} 
+.main-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.tech-icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 2rem;
+  
+}
+.react-icon{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+    transition: all 0.3sec ease;
+    text-align: center;
+    padding-top: 0.5rem;
+
+}
+.react{
+    height: auto;
+    width: 3rem;
+}
+.react:hover,
+.tech-img:hover
+{
+    transform: translateY(-0.5rem);
+}
+.about-img{
+    height: 440px;
+    width: 440px;
+    border-radius: 2rem; 
+    margin-left: 3rem;
+
+}
+.about-para{
+    margin-top: 5rem;
+    
+    text-align: center;
+}
+.about-para p{
+    font-size: 1.2rem;
+    margin-top: 0.3rem;
+    padding-left: 4rem;
+   
+}
+
+
+
+/* .hero-btn{
+    margin: 2.5rem 1rem;
+    padding-right: 1rem;
+}
+@media screen and(max-width:640px){
+    .hero-content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 10rem;
+        
+    }
+    .hero-btn{
+        margin: 2.5rem 0.5rem 0 0.5rem;
+        padding-right: 1rem;
+        font-size: 300;
+    }
+    
+}  */

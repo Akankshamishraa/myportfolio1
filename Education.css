@@ -1,0 +1,166 @@
+/* .education{
+    height: 700px;
+} */
+.edu-container{
+    height: 200px;
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+}
+.edu-img{
+    height: 330px;
+    width: 400px;
+    border-radius: 1.8rem;
+    margin-left: 5rem;
+}
+.edu-content{
+margin-left: 10rem;
+
+}
+.edu-box{
+     margin: 4rem 2rem 0 13rem;
+    text-align: center;
+}
+.edu-box p{
+    margin: 1.5rem;
+}
+.edu-degree{
+     height: 500px;
+     margin-top: 22rem;
+    
+}
+.grad-icon{
+    height: 70px;
+    margin-top: 3rem;
+     display: flex; 
+     gap: 1.5rem;
+     margin-left: 8rem; 
+}
+.grad{
+     height: 130px;
+    width: 130px; 
+    margin-left: 7rem;
+    object-fit: contain;
+    border-radius: 1rem;
+
+
+}
+.school-icon{
+    height: 140px;
+    width: 140px;
+    object-fit: contain;
+    border-radius: 1.5rem;
+}
+.bachelors{
+    display: flex;
+    flex-direction: row;
+    margin:2rem 0 0 4rem ;
+    gap: 5rem;
+}
+ .college-img{
+    height: 220px;
+    width: 220px; 
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 3.2rem;
+    
+} 
+.college-heading{
+     height: 350px; 
+    width: 890px;
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+}
+.Title{
+    display: flex;
+    
+    flex-wrap: wrap;
+     justify-content: space-between; 
+     padding: 0 2rem 0 2rem;  
+    
+}
+ .Title p{
+    margin-top: 3rem;
+
+} 
+
+.school{
+    height: 500px;
+}
+.school-content{
+    display: flex;
+    flex-direction: row;
+    margin:2rem 0 0 4.5rem ;
+    gap: 4rem;
+}
+.school-img{
+    height: 220px;
+    width: 220px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 3.2rem;
+
+}
+.school-heading{
+    height: 380px;
+    width: 890px;
+    border-radius: 0.65rem;
+    border: 1.5px solid #6852ba;
+}
+.school-content2{
+    margin-top: 2.4rem;
+    padding-left: 1rem;
+    
+}
+.school-content2 p{
+    font-size: 1.2rem;
+}
+.duration{
+
+    margin: 2rem;
+   
+}
+.duration p{
+    font-size: 1.3rem;
+}
+.college-content{
+    margin-left: 1.5rem;
+    
+}
+.college-content p{
+    font-size: 1.2rem;
+}
+.button1{
+    height: 28px;
+    width: 110px;
+    border: 1px solid;
+    border: none;
+    background-color: gray;
+    color: #000;
+    border-radius: 2px;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 2.5rem; 
+      position: absolute;  
+    left: 75%;
+    padding: 1px 0 0 3px ;
+   
+
+     
+}
+  .button2{
+    height: 28px;
+    width: 105px;
+    border: 1px solid ;
+    border: none;
+    border-radius: 2px;
+    background-color: gray;
+    color: #000;
+    padding: 1px 0 0 3px ;
+
+    margin-top: 4rem; 
+      position: absolute;  
+    left: 75%;
+    font-size: 1rem;
+    font-weight: 600;
+} 
